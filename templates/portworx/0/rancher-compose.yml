@@ -10,4 +10,4 @@
       label: "Cluster Token"
       type: "string"
       required: true
-      default: " "
+      default: ""
