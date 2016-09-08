@@ -1,6 +1,6 @@
 name: Portworx
 description: |
   Software defined storage for Linux Containers
-  version: 1.0.2 201605-GA
+  version: 1.0.2 2016-09-07-GA
   category: Storage
 

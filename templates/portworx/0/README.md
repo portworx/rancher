@@ -1,4 +1,4 @@
 # Portworx
 
-Visit http://docs.portworx.com for more information.
+[Docs](http://docs.portworx.com)
 
