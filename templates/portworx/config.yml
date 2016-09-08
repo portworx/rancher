@@ -1,5 +1,5 @@
-name: Portworx
+name: px-enterprise
 description: |
-  Software defined storage for Linux Containers.
+  Software defined enterprise storage for Linux Containers.
 version: 1.0.2-2016-09-07-GA
 category: Storage
