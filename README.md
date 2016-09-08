@@ -1,4 +1,4 @@
-# Portworx Catalogs for Thirdparty Control Plane Software
+# Portworx Catalogs for Rancher
 
 This provides the ability to deploy Portworx Enterprise storage on every Rancher node in your cluster.
 
