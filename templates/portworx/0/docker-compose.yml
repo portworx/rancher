@@ -8,7 +8,7 @@ portworx:
   net: host
   privileged: true
   environment:
-    CLUSTER_TOKEN: {cluster_token}
+    CLUSTER_TOKEN: ${cluster_token}
   volumes:
      - /dev:/dev
      - /usr/src:/usr/src
