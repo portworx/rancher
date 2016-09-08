@@ -2,7 +2,7 @@
   name: "Portworx"
   version: "1.0.2-GA"
   description: "Container Defined Storage for Docker"
-  uuid: 252665-pwx-1.0.2
+  uuid: 252665-pwx-1.0.3
   minimum_rancher_version: v0.56.0
   questions:
     - variable: cluster_token
