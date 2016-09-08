@@ -1,4 +1,2 @@
-# Portworx
-
-[Docs](http://docs.portworx.com)
+# [1.0.2-GA Documentation](http://docs.portworx.com)
 
