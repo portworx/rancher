@@ -6,11 +6,8 @@
   minimum_rancher_version: v0.56.0
   questions:
     - variable: cluster_token
-      description: "Cluster token obtained via Lighthouse or your Portworx representative"
+      description: "Cluster Token from Lighthouse"
       label: "Cluster Token"
       type: "string"
       required: true
-      default: ""
-
-portworx:
-  scale: 1
+      default: " "
