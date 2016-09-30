@@ -19,4 +19,4 @@ portworx:
      - /opt/pwx/bin:/export_bin:shared
      - /var/run/docker.sock:/var/run/docker.sock
      - /var/cores:/var/cores
-  command: -t ${cluster_token} -a -f
+  command: -t ${cluster_token} -a -f -z
