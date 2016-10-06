@@ -3,6 +3,7 @@
 This provides the ability to deploy Portworx Enterprise storage on every Rancher node in your cluster.
 
 There are two types of templates available...
+
 1. Launch portworx and use all available storage on a node
 2. Launch portworx in "head-only" mode where it can provide storage to other containers, but will not consume any local storage
 
