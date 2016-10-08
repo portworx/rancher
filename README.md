@@ -1,11 +1,12 @@
 # Portworx Catalogs for Rancher
 
-This provides the ability to deploy Portworx Enterprise storage on every Rancher node in your cluster.
+Use Portworx to get elastic block storage for containers. Run on any cloud, on-prem, and with any OS. This PX-Developer solution is a free release, offers bare metal performance, and scales up to three servers. 
 
-There are two types of templates available...
+The PX-Enterprise solution is available and offers enterprise support, scales to 100 servers, and will provide advance features such as encryption. To deploy PX-Enterprise, [contact us](info@portworx.com) for a demo or trial. 
 
-1. Launch portworx and use all available storage on a node
-2. Launch portworx in "head-only" mode where it can provide storage to other containers, but will not consume any local storage
+PX-Developer can be deployed on servers that
+ 1. Provide and consume storage. Servers are then aggregated into a cluster. This is the typical setup.
+ 2. Only consume storage. These servers are part of a cluster  but  do not contribute storage. Here, launch PX in "head-only" mode.
 
 To use this, do the following:
 * Go to the admin tab, then click on settings
@@ -13,4 +14,4 @@ To use this, do the following:
 * In the Name box, enter `Portworx`
 * In the URL box, enter `https://github.com/portworx/rancher`
 
-Contact us at support@portworx.com if you have any questions.
+Contact us at support@portworx.com or in our [Google Groups](https://groups.google.com/forum/#!forum/portworx) if you have any questions 
